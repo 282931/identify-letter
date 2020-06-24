@@ -1,9 +1,7 @@
 /**
  * Author   : Syan
  * Date     : 2018/4/22
- * Project [ RNPlayground ] Coded on WebStorm.
  */
-
 import React, { PureComponent } from 'react';
 import { View, FlatList, Text, ActivityIndicator, StyleSheet, Image } from 'react-native';
 import PropTypes from 'prop-types';
